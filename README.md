@@ -5,3 +5,5 @@ This task presents a vulnerability assessment perfomed on Google Gruyere, a web 
 This report contains all the vulnerabilities found using OWASP ZAP, and Nmap, along with their descriptions, and explanations, risk and confidence levels, and ways to mitigate found vulnerabilities.
 
 This report contains thorough research, and resources, that were used to study, and learn about the vulnerabilites, which allowed for better remediation methods, and increased security measures.
+
+Google Gruyere Instance: https://google-gruyere.appspot.com/454961346651665273285756825628395937339/ [PROCEED WITH CAUTION!! DO NOT ENTER ANY REAL DETAILS INTO LOGIN AND REGISTRATION FIELDS]
